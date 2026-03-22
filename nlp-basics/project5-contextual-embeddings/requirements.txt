@@ -1,0 +1,4 @@
+# minimal dependencies
+transformers
+torch
+scikit-learn
